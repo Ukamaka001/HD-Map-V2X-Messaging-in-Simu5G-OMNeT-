@@ -139,6 +139,6 @@ Results can be extracted via OMNeT++ .sca and .vec files and analyzed using Pyth
 
 ## Author
 
-Amaka (Ukamaka Akumili Anaedu)  
+Ukamaka Akumili Anaedu  
 Automation & Embedded Systems Engineer  
 Connected Mobility & Network Simulation Research  
